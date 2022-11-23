@@ -5,4 +5,33 @@
 ##### 1) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 ---
-![](aykut%20gezer%20mergesort%20jpg.png)
+                       [16,21,11,8,12,22]
+                       /                  \
+                      /                    \
+            [16,21,11]                      [8,12,22]
+           /          \                    /         \
+          /            \                  /           \
+   [16,21]              [11]             [8]           [12,22]
+   /      \             /                  \           /      \
+  /        \           /                    \         /        \
+[16]      [21]       [11]                   [8]     [12]       [22]
+  \        /           \                    /         \        /
+   \      /             \                  /           \      /
+    [16,21]             [11]             [8]            [12,22]
+          \            /                    \          /
+           \          /                      \        /
+            [11,16,21]                       [8,12,22]
+                      \                     /
+                       \                   /
+                         [8,11,12,16,21,22]
+
+ ---                        
+2) Big-O gösterimini yazınız.
+
+>O(nlogn)
+
+---
+
+[Aykut Gezer](https://github.com/AykutGezer)
+
+[Patika.dev](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje)
