@@ -5,7 +5,7 @@
 ##### 1) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 ---
- ![aykut gezer mergesort jpg](https://user-images.githubusercontent.com/107508712/203581652-a2d0a95c-42e7-4edd-888a-317d22a9d912.png)
+ ![aykutgezermergesort](https://user-images.githubusercontent.com/107508712/203582717-5a44f4f6-d23f-451c-a11a-0b38c22d2d56.png)
  ---     
                          
 2) Big-O gösterimini yazınız.
