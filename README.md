@@ -6,6 +6,7 @@
 
 ---
  ![aykut gezer mergesort jpg](https://user-images.githubusercontent.com/107508712/203581652-a2d0a95c-42e7-4edd-888a-317d22a9d912.png)
+ <img src="[./assets/image_unsplash.jpg](https://user-images.githubusercontent.com/107508712/203581652-a2d0a95c-42e7-4edd-888a-317d22a9d912.png)" width="320">
  ---     
                          
 2) Big-O gösterimini yazınız.
